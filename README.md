@@ -1,94 +1,38 @@
-# Frontend Mentor - Interactive rating component
+## Table of contents
 
-![Design preview for the Interactive rating component coding challenge](./design/desktop-preview.jpg)
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+- [Author](#author)
 
-## Welcome! 👋
+### Screenshot
 
-Thanks for checking out this front-end coding challenge.
+![](./images/finalProduct.png)
 
-[Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
+### Links
 
-**To do this challenge, you need a basic understanding of HTML, CSS and JavaScript.**
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-CdsTxIFAbA)
+- Live Site URL: [Live](https://genuinemiyashita.github.io/QR-Code-Component/)
 
-## The challenge
+## My process
 
-Your challenge is to build out this interactive rating component and get it looking as close to the design as possible.
+This was a struggle for me. I was busy for roughly the last 2 weeks when I came back, it felt as if I completely forgot everything! The HTML & CSS was taking forever as I really wanted to try to include Bulma since I learned about the CSS framework from my Udemy course -- [Web Developer Bootcamp](https://www.udemy.com/course/the-web-developer-bootcamp/). However, I removed all of it as I felt that it was causing me to take too long on the project and I would later opt for a Bulma specific project. Maybe, I was just distracting myself so I didn't have to work on the JavaScript portion as this was also my first project that included JS outside of the Udemy course's small quizzes.
 
-You can use any tools you like to help you complete the challenge. So if you've got something you'd like to practice, feel free to give it a go.
+I ended up watching TsbSankara's [YouTube video](https://www.youtube.com/watch?v=cQnUopEeZgw) about the challenge and turned it into a code along to help get practice in writing juts beyond the simple syntax.
 
-Your users should be able to:
+### What I learned
 
-- View the optimal layout for the app depending on their device's screen size
-- See hover states for all interactive elements on the page
-- Select and submit a number rating
-- See the "Thank you" card state after submitting a rating
+Before removing Bulma, a large chunk of their documentation and even though it isn't used -- I learned a lot about it. Additionally, TsbSankara's video helped me understand the proper structure of an event listener as I understand the basic syntax, just struggle to apply it until I get extra practice. Furthermore, I corrected my CSS based off the video and while I have a better understanding of CSS compared JS, I still learned a clearer understanding of the flexbox hierarchy as I always initially mess it up by making the main tag the main container class.
 
-Want some support on the challenge? [Join our Slack community](https://www.frontendmentor.io/slack) and ask questions in the **#help** channel.
+### Continued development
 
-## Where to find everything
+I need to continue working on JavaScript and refresh myself on HTML and CSS. The way I plan to address working with JavaScript is by following along other beginner level tutorials and afterwards, attempting the same/similar project on my own. I purchased the [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) on sale from Udemy. Those will be the projects that I attempt on my own and use the videos as a way to code-review myself. Additionally, I bought Colt Steele's [The HTML & CSS Bootcamp 2023 Edition](https://www.udemy.com/course/html-and-css-bootcamp/) to mainly revisit CSS. I'm mainly an audio learner and Colt's method has been helpful in his generalized course, so I wanted to take his specialized course and tackle those projects too.
 
-Your task is to build out the project to the designs inside the `/design` folder. You will find both a mobile and a desktop version of the design. 
+## Author
 
-The designs are in JPG static format. Using JPGs will mean that you'll need to use your best judgment for styles such as `font-size`, `padding` and `margin`. 
-
-If you would like the design files (we provide Sketch & Figma versions) to inspect the design in more detail, you can [subscribe as a PRO member](https://www.frontendmentor.io/pro).
-
-You will find all the required assets in the `/images` folder. The assets are already optimized.
-
-There is also a `style-guide.md` file containing the information you'll need, such as color palette and fonts.
-
-## Building your project
-
-Feel free to use any workflow that you feel comfortable with. Below is a suggested process, but do not feel like you need to follow these steps:
-
-1. Initialize your project as a public repository on [GitHub](https://github.com/). Creating a repo will make it easier to share your code with the community if you need help. If you're not sure how to do this, [have a read-through of this Try Git resource](https://try.github.io/).
-2. Configure your repository to publish your code to a web address. This will also be useful if you need some help during a challenge as you can share the URL for your project with your repo URL. There are a number of ways to do this, and we provide some recommendations below.
-3. Look through the designs to start planning out how you'll tackle the project. This step is crucial to help you think ahead for CSS classes to create reusable styles.
-4. Before adding any styles, structure your content with HTML. Writing your HTML first can help focus your attention on creating well-structured content.
-5. Write out the base styles for your project, including general content styles, such as `font-family` and `font-size`.
-6. Start adding styles to the top of the page and work down. Only move on to the next section once you're happy you've completed the area you're working on.
-
-## Deploying your project
-
-As mentioned above, there are many ways to host your project for free. Our recommend hosts are:
-
-- [GitHub Pages](https://pages.github.com/)
-- [Vercel](https://vercel.com/)
-- [Netlify](https://www.netlify.com/)
-
-You can host your site using one of these solutions or any of our other trusted providers. [Read more about our recommended and trusted hosts](https://medium.com/frontend-mentor/frontend-mentor-trusted-hosting-providers-bf000dfebe).
-
-## Create a custom `README.md`
-
-We strongly recommend overwriting this `README.md` with a custom one. We've provided a template inside the [`README-template.md`](./README-template.md) file in this starter code.
-
-The template provides a guide for what to add. A custom `README` will help you explain your project and reflect on your learnings. Please feel free to edit our template as much as you like.
-
-Once you've added your information to the template, delete this file and rename the `README-template.md` file to `README.md`. That will make it show up as your repository's README file.
-
-## Submitting your solution
-
-Submit your solution on the platform for the rest of the community to see. Follow our ["Complete guide to submitting solutions"](https://medium.com/frontend-mentor/a-complete-guide-to-submitting-solutions-on-frontend-mentor-ac6384162248) for tips on how to do this.
-
-Remember, if you're looking for feedback on your solution, be sure to ask questions when submitting it. The more specific and detailed you are with your questions, the higher the chance you'll get valuable feedback from the community.
-
-## Sharing your solution
-
-There are multiple places you can share your solution:
-
-1. Share your solution page in the **#finished-projects** channel of the [Slack community](https://www.frontendmentor.io/slack). 
-2. Tweet [@frontendmentor](https://twitter.com/frontendmentor) and mention **@frontendmentor**, including the repo and live URLs in the tweet. We'd love to take a look at what you've built and help share it around.
-3. Share your solution on other social channels like LinkedIn.
-4. Blog about your experience building your project. Writing about your workflow, technical choices, and talking through your code is a brilliant way to reinforce what you've learned. Great platforms to write on are [dev.to](https://dev.to/), [Hashnode](https://hashnode.com/), and [CodeNewbie](https://community.codenewbie.org/).
-
-We provide templates to help you share your solution once you've submitted it on the platform. Please do edit them and include specific questions when you're looking for feedback. 
-
-The more specific you are with your questions the more likely it is that another member of the community will give you feedback.
-
-## Got feedback for us?
-
-We love receiving feedback! We're always looking to improve our challenges and our platform. So if you have anything you'd like to mention, please email hi[at]frontendmentor[dot]io.
-
-This challenge is completely free. Please share it with anyone who will find it useful for practice.
-
-**Have fun building!** 🚀
+- Frontend Mentor - [@GenuineMiyashita](https://www.frontendmentor.io/profile/GenuineMiyashita)
