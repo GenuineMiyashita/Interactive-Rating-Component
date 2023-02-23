@@ -34,7 +34,7 @@ Before removing Bulma, I read a large chunk of their documentation and even thou
 
 I need to continue working on JavaScript, refresh myself on HTML/CSS, and really practice extra CSS too. The way I plan to address working with JavaScript is by following along other beginner level tutorials and afterwards, attempting the same/similar project on my own. I purchased the [JavaScript Web Projects: 20 Projects to Build Your Portfolio](https://www.udemy.com/course/javascript-web-projects-to-build-your-portfolio-resume/) on sale from Udemy. Those will be the projects that I attempt on my own and use the videos as a way to code-review myself. Additionally, I bought Colt Steele's [The HTML & CSS Bootcamp 2023 Edition](https://www.udemy.com/course/html-and-css-bootcamp/) while on launch sale to mainly revisit CSS. I'm mainly an audio learner and Colt's method has been helpful in his generalized course, so I wanted to take his specialized course and tackle those projects too.
 
-Furthermore, I want to improve in accessibility and have stared to read [Dev](dev.to) and found Grace Snow and her website [fedmentor](fedmentor.dev) from Frontend Mentor.
+Furthermore, I want to improve in accessibility and have stared to read [Dev](dev.to) and found Grace Snow and her website [fedmentor](fedmentor.dev) from Frontend Mentor. So, I definitely plan to revisit project when I gained extra experience.
 
 ## Author
 
