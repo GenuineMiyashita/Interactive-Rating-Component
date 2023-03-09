@@ -17,8 +17,8 @@
 
 ### Links
 
-- Solution URL: [Solution](https://www.frontendmentor.io/solutions/qr-code-component-CdsTxIFAbA)
-- Live Site URL: [Live](https://genuinemiyashita.github.io/Interactive-rating-component/)
+- Solution URL: [Solution](https://www.frontendmentor.io/solutions/interactive-rating-component-aUFxhDfDiq)
+- Live Site URL: [Live](https://genuinemiyashita.github.io/Interactive-Rating-Component/)
 
 ## My process
 
